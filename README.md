@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Deliverable 5 – Kubernetes Deployment using Minikube</title>
+ 
 </head>
 <body>
 
