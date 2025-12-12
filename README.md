@@ -3,14 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Deliverable 5 – Kubernetes Deployment using Minikube</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; }
-    h1, h2, h3 { color: #333; }
-    code { background: #eee; padding: 2px 5px; border-radius: 3px; }
-    pre { background: #eee; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    ul { margin: 0; padding-left: 20px; }
-    .checklist li { margin-bottom: 5px; }
-  </style>
 </head>
 <body>
 
